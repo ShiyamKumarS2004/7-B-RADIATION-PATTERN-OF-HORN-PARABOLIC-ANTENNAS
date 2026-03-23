@@ -1,3 +1,6 @@
+# NAME : SHIYAM KUMAR S
+# REGISTER NUMBER : 212223060260
+
 # 7-B-RADIATION-PATTERN-OF-HORN-PARABOLIC-ANTENNAS
 
 **Aim:**
@@ -68,13 +71,17 @@ Beam current	 :
 
 **PARABOLICANTENNA**
 
-Beam voltage	:
+Beam voltage	: 235 V
 
-Beam current	 :
+Beam current	 :  164 mV
 
-Repeller voltage :
+Repeller voltage :  42 V 
 
-	V1 : 
+<img width="540" height="779" alt="image" src="https://github.com/user-attachments/assets/e8513dbc-0830-4d67-b24d-71d27f6b678a" />
+
+<img width="569" height="760" alt="image" src="https://github.com/user-attachments/assets/af912304-bc9b-46ed-a5ea-b14d382e22e0" />
+
+
 
 **RESULT:**
 
@@ -82,7 +89,9 @@ Thus the polar pattern and the gain of a waveguide horn antenna and parabolicant
 
 Beamwidth of horn antenna :
 
-Beamwidth of parabolic antenna:		
+Beamwidth of parabolic antenna:		20°
+
+
 
 
 
