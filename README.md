@@ -1,5 +1,5 @@
-# NAME : SHIYAM KUMAR S
-# REGISTER NUMBER : 212223060260
+## NAME : SHIYAM KUMAR S
+## REG NO : 212223060260
 
 # 7-B-RADIATION-PATTERN-OF-HORN-PARABOLIC-ANTENNAS
 
@@ -63,35 +63,32 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 
 **TABULATION:** 
 
-**HORN ANTENNA** 
 
-Beam voltage	:
 
-Beam current	 :
-
-**PARABOLICANTENNA**
+**PARABOLIC ANTENNA**
 
 Beam voltage	: 235 V
 
-Beam current	 :  164 mV
+Beam current	 : 164 mV
 
-Repeller voltage :  42 V 
+Repeller voltage : 42 V
 
-<img width="540" height="779" alt="image" src="https://github.com/user-attachments/assets/e8513dbc-0830-4d67-b24d-71d27f6b678a" />
+<img width="540" height="779" alt="image" src="https://github.com/user-attachments/assets/bad5cb6f-5a5d-4e99-9fd3-f54eb207b683" />
 
-<img width="569" height="760" alt="image" src="https://github.com/user-attachments/assets/af912304-bc9b-46ed-a5ea-b14d382e22e0" />
 
+
+
+
+<img width="569" height="760" alt="image" src="https://github.com/user-attachments/assets/67c4af05-39db-4317-8479-b77bb2188a29" />
 
 
 **RESULT:**
 
 Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
 
-Beamwidth of horn antenna :
-
-Beamwidth of parabolic antenna:		20°
 
 
+Beamwidth of parabolic antenna:	20°
 
 
 
